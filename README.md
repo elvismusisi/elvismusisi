@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Elvis Musisi
-![Elvis Musisi](https://imgur.com/kpixYcF)
 I'm a passionate graphic designer and front-end web developer based in Nairobi, Kenya. With a flair for creativity and a love for coding, I'm dedicated to crafting visually appealing and functional web experiences.
 
 ## 🔧 Skills
