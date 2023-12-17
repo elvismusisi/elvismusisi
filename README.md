@@ -13,7 +13,7 @@ I'm a passionate graphic designer and front-end web developer based in Nairobi, 
    My personal portfolio website where I showcase my work and projects. Feel free to explore [here](https://elvismusisi.github.io).
 
 ### Project 2: [RK Quality Assurance Website](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project)
-   A mock website written in HTML, CSS, and Bootstrap for RK Quality Assurance. Check out the code [here](https://github.com/elvismusisi/Snake-Game).
+   A mock website written in HTML, CSS, and Bootstrap for RK Quality Assurance. Check out the code [here](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project).
 
 ### Project 3: [Simple Snake Game](https://github.com/elvismusisi/Snake-Game)
    An interactive and fun Snake Game built using HTML, CSS, and JavaScript. Play around with it [here](https://github.com/elvismusisi/Snake-Game).
