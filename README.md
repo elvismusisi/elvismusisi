@@ -9,16 +9,16 @@ I'm a passionate graphic designer and front-end web developer based in Nairobi, 
 
 ## 🚀 Projects
 
-### Project 1: [Portfolio Website](https://elvismusisi.github.io)
+### Project 1: [Portfolio Website](https://github.com/elvismusisi/elvismusisi.github.io)
    My personal portfolio website where I showcase my work and projects. Feel free to explore [here](https://elvismusisi.github.io).
 
-### Project 2: [RK Quality Assurance Website](link-to-repo)
-   A mock website written in HTML, CSS, and Bootstrap for RK Quality Assurance. Check out the code [here](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project).
+### Project 2: [RK Quality Assurance Website](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project)
+   A mock website written in HTML, CSS, and Bootstrap for RK Quality Assurance. Check out the code [here](https://github.com/elvismusisi/Snake-Game).
 
-### Project 3: [Simple Snake Game](link-to-repo)
+### Project 3: [Simple Snake Game](https://github.com/elvismusisi/Snake-Game)
    An interactive and fun Snake Game built using HTML, CSS, and JavaScript. Play around with it [here](https://github.com/elvismusisi/Snake-Game).
 
-### Project 4: [Weather Forecast App](link-to-repo)
+### Project 4: [Weather Forecast App](https://github.com/elvismusisi/Weather-Forecast-App)
    A weather forecast app that allows users to check the weather of any city across the world. Explore the code [here](https://github.com/elvismusisi/Weather-Forecast-App).
 
 ## 🌐 Let's Connect!
