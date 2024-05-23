@@ -3,7 +3,7 @@ I'm a passionate graphic designer and front-end web developer based in Kenya. Wi
 
 ## 🔧 Skills
 
-- **Graphic Design:** Adobe Creative Suite (Photoshop, Illustrator, InDesign, AfterEffects)
+- **Graphic Design & Animation:** Adobe Creative Suite (Photoshop, Illustrator, InDesign, AfterEffects)
 - **Web Development:** HTML, CSS, JavaScript, React, JQuery, Bootstrap
 - **Other Tools:** Figma, Git
 
