@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Elvis Musisi
+# Hi there! 👋 I'm Musisi (Wabwire) Elvis
 I'm a passionate graphic designer and self-taught front-end web developer based in Kenya. With a flair for creativity and a love for coding, I'm dedicated to crafting visually appealing and functional web experiences.
 
 ## 🔧 Skills
