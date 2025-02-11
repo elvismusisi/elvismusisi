@@ -19,7 +19,7 @@ I specialize in crafting **visually appealing and functional web experiences**
 ## 🚀 Featured Projects  
 
 ### 🏆 [The Young People's Network International Website](https://theyoungpeoplesnetworkwebsite.netlify.app/)  
-🚀 **A submission for the Young People's Network International Contest by Charlene Ruto.**  
+🚀 **A submission for The Young People's Network International Website Contest by Charlene Ruto.**  
 📌 Built with **HTML, CSS, and JavaScript**.  
 🔗 [View Live](https://theyoungpeoplesnetworkwebsite.netlify.app/)  
 
