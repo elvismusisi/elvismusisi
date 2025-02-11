@@ -36,7 +36,7 @@ I specialize in crafting **visually appealing and functional web experiences**
 🔗 [Play Here](https://github.com/elvismusisi/Snake-Game)  
 
 ### 🌦️ [Weather Forecast App](https://github.com/elvismusisi/Weather-Forecast-App)  
-☁️ **A weather app to check real-time weather of any city worldwide.**  
+☁️ **A weather app to check real-time weather of any city worldwide. Play with the app on my portfoliowebsite**  
 🔗 [Explore the Code](https://github.com/elvismusisi/Weather-Forecast-App)  
 
 ---
