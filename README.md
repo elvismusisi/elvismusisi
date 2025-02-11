@@ -1,42 +1,66 @@
-# Hi there! 👋 I'm Musisi (Wabwire) Elvis
-I'm a passionate UI/UX Designer, Graphic Designer and self-taught Front-End Web Developer based in Kenya. I'm dedicated to crafting visually appealing and functional web experiences.
+# 👋 Hi there! I'm Musisi (Wabwire) Elvis  
+I'm a passionate **UI/UX Designer, Graphic Designer, and self-taught Front-End Web Developer** based in **Kenya**.  
+I specialize in crafting **visually appealing and functional web experiences** that bring ideas to life.  
 
-## 🔧 Skills
+---
 
-- **Graphic Design & Animation:** Adobe Creative Suite (Photoshop, Illustrator, InDesign, AfterEffects)
-- **Web Development:** HTML, CSS, JavaScript, React, JQuery, Bootstrap
-- **Other Tools:** Figma, Git
+## 🔥 Skills & Tools  
 
-## 🚀 Projects
+### 🎨 **Graphic Design & Animation**  
+🖌️ Adobe Photoshop | 🎭 Illustrator | 📰 InDesign | 🎬 AfterEffects  
 
-### Project 1: [Portfolio Website](https://github.com/elvismusisi/elvismusisi.github.io)
-   My personal portfolio website where I showcase my work and projects. Feel free to explore [here](https://elvismusisi.github.io).
+### 💻 **Web Development**  
+🌐 HTML | 🎨 CSS | ⚡ JavaScript | ⚛️ React | 🎭 JQuery | 🚀 Bootstrap  
 
-### Project 2: [RK Quality Assurance Website](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project)
-   A mock website written in HTML, CSS, and Bootstrap for RK Quality Assurance. Check out the code [here](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project).
+### 🛠️ **Other Tools**  
+📐 Figma | 🏗️ Git | 🛠️ UI/UX Prototyping  
 
-### Project 3: [Simple Snake Game](https://github.com/elvismusisi/Snake-Game)
-   An interactive and fun Snake Game built using HTML, CSS, and JavaScript. Play around with it [here](https://github.com/elvismusisi/Snake-Game).
+---
 
-### Project 4: [Weather Forecast App](https://github.com/elvismusisi/Weather-Forecast-App)
-   A weather forecast app that allows users to check the weather of any city across the world. Explore the code [here](https://github.com/elvismusisi/Weather-Forecast-App).
+## 🚀 Featured Projects  
 
-## 🌐 Let's Connect!
+### 🏆 [The Young People's Network International Website](https://theyoungpeoplesnetworkwebsite.netlify.app/)  
+🚀 **A submission for the Young People's Network International Contest by Charlene Ruto.**  
+📌 Built with **HTML, CSS, and JavaScript**.  
+🔗 [View Live](https://theyoungpeoplesnetworkwebsite.netlify.app/)  
 
-- [Portfolio](https://elvismusisi.github.io)
-- [LinkedIn](https://www.linkedin.com/in/musisi-elvis-74a5a3271/)
-- [Twitter](https://twitter.com/emusisi)
-- [Email](emusisi90@gmail.com)
+### 💼 [Portfolio Website](https://github.com/elvismusisi/elvismusisi.github.io)  
+🌍 **My personal portfolio showcasing my work and projects.**  
+🔗 [Visit My Portfolio](https://elvismusisi.github.io)  
 
-## 🎨 Fun Fact
+### 🏢 [RK Quality Assurance Website](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project)  
+🛠️ **A mock website for RK Quality Assurance** with a professional, clean UI.  
+🔗 [Check the Code](https://github.com/elvismusisi/RK-Quality-Assurance-Mock-Website-Project)  
 
-I believe that great design goes hand in hand with great functionality. When I'm not coding, you can find me experimenting with new design concepts or enjoying a good cup of coffee.
+### 🎮 [Simple Snake Game](https://github.com/elvismusisi/Snake-Game)  
+🐍 **A fun and interactive Snake Game** built using vanilla JavaScript.  
+🔗 [Play Here](https://github.com/elvismusisi/Snake-Game)  
 
-## 🏆 Badges
+### 🌦️ [Weather Forecast App](https://github.com/elvismusisi/Weather-Forecast-App)  
+☁️ **A weather app to check real-time weather of any city worldwide.**  
+🔗 [Explore the Code](https://github.com/elvismusisi/Weather-Forecast-App)  
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Guru-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Ninja-yellow)
-![React](https://img.shields.io/badge/React-Enthusiast-green)
+---
 
-Thanks for stopping by! Feel free to explore my repositories and get in touch. 😊
+## 🌍 Let's Connect  
+
+🔗 [**Portfolio**](https://elvismusisi.github.io) | 💼 [**LinkedIn**](https://www.linkedin.com/in/musisi-elvis-74a5a3271/) | 🐦 [**Twitter**](https://twitter.com/emusisi) | 📧 [**Email**](mailto:emusisi90@gmail.com)  
+
+---
+
+## 🎨 Fun Fact  
+🖌️ I believe **great design and functionality go hand in hand.**  
+☕ When I'm not coding, you'll find me experimenting with **new design concepts** or enjoying a good cup of coffee.  
+
+---
+
+## 🏆 My Developer Badges  
+
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)  
+![CSS](https://img.shields.io/badge/CSS-Guru-blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Ninja-yellow)  
+![React](https://img.shields.io/badge/React-Enthusiast-green)  
+
+---
+
+🚀 Thanks for stopping by! Feel free to explore my work and reach out. 😊  
